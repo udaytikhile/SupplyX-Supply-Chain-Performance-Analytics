@@ -22,13 +22,6 @@ A foundational principle of SupplyX is **strict schema grounding**: real-world e
 | **Commercials** | `Sales`, `Order Item Discount`, `Order Item Total`, `Order Profit Per Order` | Catalog Sales: \$36.78M; Discounts: \$3.73M; Net Revenue: \$33.05M; Operating Profit: \$3.97M (12.00% margin). | **Carrier freight costs, fuel surcharges, packaging expenses.** |
 | **Suppliers & Inventory** | *None* | `Product Status` is invariant (0 across 100% of rows). | **Inventory stock on hand, warehouse bin capacity, supplier lead times, supplier IDs.** |
 
-> [!IMPORTANT]
-> **Data Limitation Disclosures**:
-> 1. **Shipping / Freight Cost**: Carrier shipping cost is **absent** from the DataCo core dataset. Core KPIs and dashboards report verified catalog sales and operating profit, explicitly disclosing that freight cost is unavailable. An exploratory mode-based freight model is isolated to the Milestone 7 extension layer.
-> 2. **Supplier & Inventory Modeling**: All supplier scorecards, safety stock sizing, and Reorder Point (ROP) analytics are maintained in a **separately sourced, clearly documented extension schema** (`data/extension_supplier_inventory.csv`) linked 100% to genuine `product_card_id` keys without contaminating core order facts.
-
----
-
 ## 📊 Ground-Truth KPI Summary
 
 All metrics are verified across 180,519 transaction line items:
@@ -195,18 +188,12 @@ python src/extension_inventory.py
 python -m pytest -v tests/
 ```
 
-### Open the Executive Dashboard
-Open the standalone HTML dashboard in your default browser:
-```powershell
-Start-Process "reports/dashboard.html"
-```
-
 ---
 
 ## 📁 Repository Structure
 
 ```
-archive (1)/
+sales analysis/
 ├── .gitignore                                 # Git ignore configuration
 ├── requirements.txt                           # Dependency specifications
 ├── README.md                                  # Executive platform documentation
@@ -236,7 +223,6 @@ archive (1)/
 │   ├── forecast_evaluation.json               # Forecast metrics output
 │   ├── forecast_predictions.csv              # Holdout test predictions
 │   ├── power_bi_spec.md                       # Power BI data model & DAX measure library
-│   ├── dashboard.html                         # Standalone interactive browser dashboard
 │   ├── supplier_inventory_analytics.md        # Documented supplier/inventory extension
 │   └── figures/                               # Publication-quality charts
 │       ├── fig1_mode_sla_paradox.png
