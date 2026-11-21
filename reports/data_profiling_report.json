@@ -1,0 +1,104 @@
+{
+  "dataset_name": "DataCo Smart Supply Chain",
+  "file_path": "DataCoSupplyChainDataset.csv",
+  "total_rows": 180519,
+  "total_columns": 53,
+  "unique_orders": 65752,
+  "unique_order_items": 180519,
+  "order_item_is_unique_pk": true,
+  "null_columns": {
+    "Customer Lname": {
+      "null_count": 8,
+      "null_pct": 0.0
+    },
+    "Customer Zipcode": {
+      "null_count": 3,
+      "null_pct": 0.0
+    },
+    "Order Zipcode": {
+      "null_count": 155679,
+      "null_pct": 86.24
+    },
+    "Product Description": {
+      "null_count": 180519,
+      "null_pct": 100.0
+    }
+  },
+  "date_quality": {
+    "order_date_min": "2015-01-01 00:00:00",
+    "order_date_max": "2018-01-31 23:38:00",
+    "shipping_date_min": "2015-01-03 00:00:00",
+    "shipping_date_max": "2018-02-06 22:14:00",
+    "invalid_dates_count": 0,
+    "ship_before_order_count": 0
+  },
+  "absent_fields_verification": {
+    "shipping_cost": {
+      "exists": false,
+      "matching_columns": [],
+      "status": "ABSENT_IN_CORE_DATASET"
+    },
+    "inventory_quantity": {
+      "exists": false,
+      "matching_columns": [],
+      "status": "ABSENT_IN_CORE_DATASET"
+    },
+    "supplier_id": {
+      "exists": false,
+      "matching_columns": [],
+      "status": "ABSENT_IN_CORE_DATASET"
+    },
+    "warehouse_capacity": {
+      "exists": false,
+      "matching_columns": [],
+      "status": "ABSENT_IN_CORE_DATASET"
+    },
+    "supplier_lead_time": {
+      "exists": false,
+      "matching_columns": [],
+      "status": "ABSENT_IN_CORE_DATASET"
+    }
+  },
+  "delivery_status_distribution": {
+    "Late delivery": 98977,
+    "Advance shipping": 41592,
+    "Shipping on time": 32196,
+    "Shipping canceled": 7754
+  },
+  "late_delivery_risk_distribution": {
+    "1": 98977,
+    "0": 81542
+  },
+  "shipping_mode_distribution": {
+    "Standard Class": 107752,
+    "Second Class": 35216,
+    "First Class": 27814,
+    "Same Day": 9737
+  },
+  "financial_summary": {
+    "Sales": {
+      "min": 9.989999771,
+      "max": 1999.98999,
+      "mean": 203.77,
+      "sum": 36784735.01
+    },
+    "Order Item Total": {
+      "min": 7.489999771,
+      "max": 1939.98999,
+      "mean": 183.11,
+      "sum": 33054402.38
+    },
+    "Benefit per order": {
+      "min": -4274.97998,
+      "max": 911.7999878,
+      "mean": 21.97,
+      "sum": 3966902.97
+    },
+    "Order Item Discount": {
+      "min": 0.0,
+      "max": 500.0,
+      "mean": 20.66,
+      "sum": 3730378.4
+    }
+  }
+}

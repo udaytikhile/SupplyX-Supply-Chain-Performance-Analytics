@@ -1,0 +1,46 @@
+{
+  "target_variable": "daily_units (Order Item Quantity)",
+  "total_days_in_series": 1127,
+  "train_days": 976,
+  "test_days": 123,
+  "train_date_range": "2015-01-29 to 2017-09-30",
+  "test_date_range": "2017-10-01 to 2018-01-31",
+  "baseline_model": {
+    "name": "7-Day Seasonal Lag Naive Baseline",
+    "metrics": {
+      "mae": 16.78,
+      "rmse": 63.87,
+      "mape_pct": 23.08
+    }
+  },
+  "ml_model": {
+    "name": "Ridge Regularized Regression (Alpha=10.0)",
+    "features_used": [
+      "lag_1",
+      "lag_2",
+      "lag_3",
+      "lag_7",
+      "lag_14",
+      "lag_21",
+      "lag_28",
+      "rolling_mean_7",
+      "rolling_mean_14",
+      "rolling_mean_28",
+      "rolling_std_7",
+      "day_of_week",
+      "day_of_month",
+      "month",
+      "is_weekend",
+      "time_idx"
+    ],
+    "metrics": {
+      "mae": 175.55,
+      "rmse": 178.77,
+      "mape_pct": 254.88
+    }
+  },
+  "artifacts": {
+    "predictions_csv": "reports\\forecast_predictions.csv",
+    "figure_png": "reports\\figures\\fig6_forecast_vs_actual.png"
+  }
+}

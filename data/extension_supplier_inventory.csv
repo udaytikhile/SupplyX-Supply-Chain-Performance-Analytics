@@ -1,0 +1,119 @@
+product_card_id,product_name,category_name,department_name,supplier_id,supplier_name,supplier_country,supplier_lead_time_days,supplier_on_time_rate_pct,warehouse_id,warehouse_region,daily_avg_demand_units,safety_stock_units,reorder_point_units,economic_order_quantity_units,current_stock_on_hand_units,stockout_risk_status,days_of_supply_remaining,annual_unit_holding_cost,benchmark_freight_cost_est_per_unit
+19,Nike Men's Fingertrap Max Training Shoe,Soccer,Fitness,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.1,1,2,13,2,CRITICAL_REORDER,20.0,25.0,10.0
+24,Elevation Training Mask 2.0,Soccer,Fitness,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.2,1,3,22,6,HEALTHY,30.0,16.0,6.4
+35,adidas Brazuca 2014 Official Match Ball,Baseball & Softball,Fitness,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.1,1,3,11,5,HEALTHY,50.0,32.0,12.8
+37,adidas Kids' F5 Messi FG Soccer Cleat,Baseball & Softball,Fitness,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.69,3,9,60,14,HEALTHY,20.3,7.0,3.5
+44,adidas Men's F10 Messi TRX FG Soccer Cleat,Baseball & Softball,Fitness,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.83,4,13,51,10,CRITICAL_REORDER,12.0,12.0,4.8
+58,Diamondback Boys' Insight 24 Performance Hybr,Basketball,Fitness,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.1,1,2,8,2,CRITICAL_REORDER,20.0,60.0,24.0
+60,SOLE E25 Elliptical,Basketball,Fitness,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.1,1,2,5,1,CRITICAL_REORDER,10.0,200.0,35.0
+61,Diamondback Girls' Clarity 24 Hybrid Bike 201,Basketball,Fitness,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.1,1,3,8,6,HEALTHY,60.0,60.0,24.0
+78,Nike Kids' Grade School KD VI Basketball Shoe,Lacrosse,Fitness,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.17,1,3,18,5,HEALTHY,29.4,20.0,8.0
+93,Under Armour Men's Tech II T-Shirt,Lacrosse,Fitness,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.74,3,11,74,19,HEALTHY,25.7,5.0,3.5
+116,Nike Men's Comfort 2 Slide,Tennis & Racquet,Fitness,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.88,2,6,60,3,CRITICAL_REORDER,3.4,9.0,3.6
+127,Stiga Master Series ST3100 Competition Indoor,Hockey,Fitness,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.1,1,2,8,4,HEALTHY,40.0,66.0,26.4
+134,Nike Women's Legend V-Neck T-Shirt,Hockey,Fitness,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.71,4,14,72,27,HEALTHY,38.0,5.0,3.5
+135,Nike Dri-FIT Crew Sock 6 Pack,Hockey,Fitness,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.78,3,10,81,9,CRITICAL_REORDER,11.5,4.4,3.5
+172,Nike Women's Tempo Shorts,Cardio Equipment,Footwear,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.8,4,12,70,10,CRITICAL_REORDER,12.5,6.0,3.5
+191,Nike Men's Free 5.0+ Running Shoe,Cardio Equipment,Footwear,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),32.55,57,188,244,153,CRITICAL_REORDER,4.7,20.0,8.0
+203,GoPro HERO3+ Black Edition Camera,Strength Training,Footwear,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.1,1,2,7,2,CRITICAL_REORDER,20.0,80.0,32.0
+208,SOLE E35 Elliptical,Strength Training,Footwear,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.1,1,3,4,4,HEALTHY,40.0,400.0,35.0
+216,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,Strength Training,Footwear,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.1,1,2,10,2,CRITICAL_REORDER,20.0,37.8,15.12
+226,Bowflex SelectTech 1090 Dumbbells,Fitness Accessories,Footwear,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.1,1,2,6,2,CRITICAL_REORDER,20.0,120.0,35.0
+235,Under Armour Hustle Storm Medium Duffle Bag,Fitness Accessories,Footwear,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.75,2,5,63,8,HEALTHY,10.7,7.0,3.5
+249,Under Armour Women's Micro G Skulpt Running S,Boxing & MMA,Footwear,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.75,2,7,50,5,CRITICAL_REORDER,6.7,10.99,4.4
+251,Brooks Women's Ghost 6 Running Shoe,Boxing & MMA,Footwear,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.19,1,4,20,4,CRITICAL_REORDER,21.1,18.0,7.2
+258,Nike Women's Free 5.0 TR FIT PRT 4 Training S,Boxing & MMA,Footwear,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.18,1,3,19,3,CRITICAL_REORDER,16.7,19.0,7.6
+273,Under Armour Kids' Mercenary Slide,Electronics,Footwear,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.71,3,11,69,14,HEALTHY,19.7,5.6,3.5
+276,Under Armour Women's Ignite Slide,Electronics,Footwear,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.82,2,6,69,11,HEALTHY,13.4,6.4,3.5
+278,Under Armour Men's Compression EV SL Slide,Electronics,Footwear,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.72,2,7,55,6,CRITICAL_REORDER,8.3,9.0,3.6
+282,Under Armour Women's Ignite PIP VI Slide,Electronics,Footwear,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.75,4,15,66,21,HEALTHY,28.0,6.4,3.5
+295,Fitbit The One Wireless Activity & Sleep Trac,Kids' Golf Clubs,Outdoors,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.17,1,3,18,5,HEALTHY,29.4,19.99,8.0
+303,Garmin Forerunner 910XT GPS Watch,Kids' Golf Clubs,Outdoors,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.1,1,2,7,1,CRITICAL_REORDER,10.0,80.0,32.0
+305,Mio ALPHA Heart Rate Monitor/Sport Watch,Kids' Golf Clubs,Outdoors,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.1,1,2,10,3,HEALTHY,30.0,39.8,15.92
+306,Polar FT4 Heart Rate Monitor,Kids' Golf Clubs,Outdoors,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.17,1,3,19,2,CRITICAL_REORDER,11.8,18.0,7.2
+311,Polar Loop Activity Tracker,Kids' Golf Clubs,Outdoors,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.1,1,3,13,2,CRITICAL_REORDER,20.0,21.99,8.8
+359,Nike Men's Free TR 5.0 TB Training Shoe,As Seen on  TV!,Footwear,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.18,1,3,19,6,HEALTHY,33.3,20.0,8.0
+364,Total Gym 1400,Cleats,Apparel,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.1,1,2,8,4,HEALTHY,40.0,60.0,24.0
+365,Perfect Fitness Perfect Rip Deck,Cleats,Apparel,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),65.39,115,377,446,707,HEALTHY,10.8,12.0,4.8
+403,Nike Men's CJ Elite 2 TD Football Cleat,Men's Footwear,Apparel,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),19.74,48,167,167,170,HEALTHY,8.6,26.0,10.4
+502,Nike Men's Dri-FIT Victory Golf Polo,Women's Apparel,Golf,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),55.86,285,1068,452,711,CRITICAL_REORDER,12.7,10.0,4.0
+564,Nike Men's Deutschland Weltmeister Winners Bl,Girls' Apparel,Golf,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.8,3,10,70,17,HEALTHY,21.2,6.0,3.5
+565,adidas Youth Germany Black/Red Away Match Soc,Girls' Apparel,Golf,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.86,4,13,48,16,HEALTHY,18.6,14.0,5.6
+567,adidas Men's Germany Black Crest Away Tee,Girls' Apparel,Golf,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.76,2,6,75,4,CRITICAL_REORDER,5.3,5.0,3.5
+572,TYR Boys' Team Digi Jammer,Girls' Apparel,Golf,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.78,2,7,60,9,HEALTHY,11.5,8.0,3.5
+607,Garmin Approach S3 Golf GPS Watch,Trade-In,Outdoors,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.1,1,3,9,2,CRITICAL_REORDER,20.0,50.0,20.0
+625,Nike Men's Kobe IX Elite Low Basketball Shoe,Shop By Sport,Golf,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.1,1,2,10,4,HEALTHY,40.0,40.0,16.0
+627,Under Armour Girls' Toddler Spine Surge Runni,Shop By Sport,Golf,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),28.16,106,388,359,365,CRITICAL_REORDER,13.0,8.0,3.5
+642,Columbia Men's PFG Anchor Tough T-Shirt,Shop By Sport,Golf,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.82,2,6,71,10,HEALTHY,12.2,6.0,3.5
+646,Merrell Women's Grassbow Sport Hiking Shoe,Men's Golf Clubs,Outdoors,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.18,1,3,19,3,CRITICAL_REORDER,16.7,20.0,8.0
+647,Merrell Women's Siren Mid Waterproof Hiking B,Men's Golf Clubs,Outdoors,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.1,1,3,12,4,HEALTHY,40.0,27.0,10.8
+652,Merrell Women's Grassbow Sport Waterproof Hik,Men's Golf Clubs,Outdoors,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.1,1,2,12,3,HEALTHY,30.0,26.0,10.4
+666,Merrell Men's All Out Flash Trail Running Sho,Men's Golf Clubs,Outdoors,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.1,1,2,13,2,CRITICAL_REORDER,20.0,22.0,8.8
+671,Cleveland Golf Collegiate My Custom Wedge 588,Women's Golf Clubs,Outdoors,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.1,1,2,10,4,HEALTHY,40.0,42.0,16.8
+677,TaylorMade White Smoke IN-12 Putter,Women's Golf Clubs,Outdoors,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.17,1,3,18,5,HEALTHY,29.4,20.0,8.0
+691,MDGolf Pittsburgh Penguins Putter,Women's Golf Clubs,Outdoors,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.13,1,3,18,6,HEALTHY,46.2,16.0,6.4
+703,Top Flite Women's 2014 XL Hybrid,Golf Apparel,Outdoors,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.79,3,10,85,20,HEALTHY,25.3,4.0,3.5
+705,Cleveland Golf Women's 588 RTX CB Satin Chrom,Golf Apparel,Outdoors,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.1,1,2,13,3,HEALTHY,30.0,24.0,9.6
+715,TaylorMade Women's RBZ SL Rescue,Golf Apparel,Outdoors,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.1,1,2,12,4,HEALTHY,40.0,26.0,10.4
+724,LIJA Women's Mid-Length Panel Golf Shorts,Golf Shoes,Outdoors,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.2,1,3,20,2,CRITICAL_REORDER,10.0,20.0,8.0
+725,LIJA Women's Button Golf Dress,Golf Shoes,Outdoors,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.1,1,3,13,2,CRITICAL_REORDER,20.0,21.6,8.64
+728,LIJA Women's Eyelet Sleeveless Golf Polo,Golf Shoes,Outdoors,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.84,3,10,49,6,CRITICAL_REORDER,7.1,13.0,5.2
+730,LIJA Women's Argyle Golf Polo,Golf Shoes,Outdoors,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.17,1,3,20,3,CRITICAL_REORDER,17.6,16.0,6.4
+743,Ogio Race Golf Shoes,Golf Bags & Carts,Outdoors,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.1,1,2,11,2,CRITICAL_REORDER,20.0,34.0,13.6
+768,Titleist Club Glove Travel Cover,Golf Gloves,Outdoors,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.1,1,2,8,2,CRITICAL_REORDER,20.0,60.0,24.0
+771,Clicgear Rovic Cooler Bag,Golf Gloves,Outdoors,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.77,4,15,60,29,HEALTHY,37.7,8.0,3.5
+773,Titleist Small Wheeled Travel Cover,Golf Gloves,Outdoors,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.1,1,2,9,2,CRITICAL_REORDER,20.0,50.0,20.0
+775,Clicgear 8.0 Shoe Brush,Golf Gloves,Outdoors,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.79,3,11,121,11,CRITICAL_REORDER,13.9,2.0,3.5
+777,Bag Boy M330 Push Cart,Golf Gloves,Outdoors,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.18,1,2,21,3,HEALTHY,16.7,16.0,6.4
+778,Bag Boy Beverage Holder,Golf Gloves,Outdoors,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.75,2,7,74,5,CRITICAL_REORDER,6.7,5.0,3.5
+786,TaylorMade 2014 Purelite Stand Bag,Golf Gloves,Outdoors,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.1,1,3,11,6,HEALTHY,60.0,36.0,14.4
+792,Hirzl Men's Hybrid Golf Glove,Golf Balls,Outdoors,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.77,3,10,97,6,CRITICAL_REORDER,7.8,3.0,3.5
+793,Hirzl Women's Hybrid Golf Glove,Golf Balls,Outdoors,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.79,3,11,99,24,OVERSTOCKED,30.4,3.0,3.5
+797,Hirzl Women's Soffft Flex Golf Glove,Golf Balls,Outdoors,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.79,2,6,90,11,HEALTHY,13.9,3.6,3.5
+804,Glove It Women's Imperial Golf Glove,Golf Balls,Outdoors,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.83,3,8,88,7,CRITICAL_REORDER,8.4,4.0,3.5
+810,Glove It Women's Mod Oval Golf Glove,Golf Balls,Outdoors,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.71,4,14,81,7,CRITICAL_REORDER,9.9,4.0,3.5
+818,Titleist Pro V1x Golf Balls,Electronics,Outdoors,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.77,3,10,55,19,HEALTHY,24.7,9.6,3.84
+821,Titleist Pro V1 High Numbers Personalized Gol,Electronics,Outdoors,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.76,3,11,52,19,HEALTHY,25.0,10.4,4.16
+822,Titleist Pro V1x High Numbers Golf Balls,Electronics,Outdoors,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.71,2,5,52,9,HEALTHY,12.7,9.6,3.84
+823,Titleist Pro V1x High Numbers Personalized Go,Electronics,Outdoors,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.81,2,7,54,13,HEALTHY,16.0,10.4,4.16
+825,Bridgestone e6 Straight Distance NFL Tennesse,Electronics,Outdoors,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.71,4,14,64,9,CRITICAL_REORDER,12.7,6.4,3.5
+828,Bridgestone e6 Straight Distance NFL San Dieg,Electronics,Outdoors,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.8,3,10,68,11,HEALTHY,13.8,6.4,3.5
+835,Bridgestone e6 Straight Distance NFL Carolina,Electronics,Outdoors,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.82,4,13,69,9,CRITICAL_REORDER,11.0,6.4,3.5
+845,Garmin Approach S4 Golf GPS Watch,Kids' Golf Clubs,Outdoors,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.1,1,2,8,4,HEALTHY,40.0,60.0,24.0
+858,GolfBuddy VT3 GPS Watch,Kids' Golf Clubs,Outdoors,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.1,1,2,10,3,HEALTHY,30.0,40.0,16.0
+860,Bushnell Pro X7 Jolt Slope Rangefinder,Kids' Golf Clubs,Outdoors,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.1,1,3,6,3,CRITICAL_REORDER,30.0,120.0,35.0
+885,Team Golf St. Louis Cardinals Putter Grip,Accessories,Outdoors,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.85,3,10,79,6,CRITICAL_REORDER,7.1,5.0,3.5
+886,Team Golf San Francisco Giants Putter Grip,Accessories,Outdoors,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.77,3,11,75,11,CRITICAL_REORDER,14.3,5.0,3.5
+893,Team Golf Pittsburgh Steelers Putter Grip,Accessories,Outdoors,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.79,2,6,76,6,CRITICAL_REORDER,7.6,5.0,3.5
+897,Team Golf New England Patriots Putter Grip,Accessories,Outdoors,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.73,2,7,73,12,HEALTHY,16.4,5.0,3.5
+905,Team Golf Texas Longhorns Putter Grip,Accessories,Outdoors,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.79,5,17,76,27,HEALTHY,34.2,5.0,3.5
+906,Team Golf Tennessee Volunteers Putter Grip,Accessories,Outdoors,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.81,3,10,77,20,HEALTHY,24.7,5.0,3.5
+917,Glove It Women's Mod Oval 3-Zip Carry All Gol,Trade-In,Outdoors,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.83,4,13,83,17,HEALTHY,20.5,4.4,3.5
+924,Glove It Urban Brick Golf Towel,Trade-In,Outdoors,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.79,2,6,95,4,CRITICAL_REORDER,5.1,3.2,3.5
+926,Glove It Imperial Golf Towel,Trade-In,Outdoors,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.83,3,8,98,14,HEALTHY,16.9,3.2,3.5
+957,Diamondback Women's Serene Classic Comfort Bi,Camping & Hiking,Fan Shop,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),12.18,62,233,87,418,HEALTHY,34.3,60.0,24.0
+977,ENO Atlas Hammock Straps,Hunting & Shooting,Fan Shop,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.89,3,11,74,16,HEALTHY,18.0,6.0,3.5
+981,The North Face Women's Recon Backpack,Hunting & Shooting,Fan Shop,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.16,1,3,18,5,HEALTHY,31.2,19.8,7.92
+982,insta-bed Neverflat Air Mattress,Hunting & Shooting,Fan Shop,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.1,1,2,12,3,HEALTHY,30.0,30.0,12.0
+1004,Field & Stream Sportsman 16 Gun Fire Safe,Fishing,Fan Shop,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),15.37,38,131,84,182,HEALTHY,11.8,80.0,32.0
+1014,O'Brien Men's Neoprene Life Vest,Indoor/Outdoor Games,Fan Shop,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),51.29,261,980,433,1202,HEALTHY,23.4,10.0,4.0
+1059,Pelican Maverick 100X Kayak,Water Sports,Fan Shop,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.1,1,2,8,1,CRITICAL_REORDER,10.0,70.0,28.0
+1073,Pelican Sunstream 100 Kayak,Water Sports,Fan Shop,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),13.75,52,190,113,130,CRITICAL_REORDER,9.5,40.0,16.0
+1346,Sports Books,Books,Book Shop,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.36,1,3,46,2,CRITICAL_REORDER,5.6,6.22,3.5
+1347,Baby sweater,Baby,Apparel,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.18,1,3,24,5,HEALTHY,27.8,11.82,4.73
+1348,CDs of rock,CDs,Discs Shop,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.24,2,6,63,6,CRITICAL_REORDER,25.0,2.26,3.5
+1349,Web Camera,Cameras,Technology,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.53,2,7,15,10,HEALTHY,18.9,90.41,35.0
+1350,Children's heaters,Children's Clothing,Apparel,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.58,3,9,18,18,HEALTHY,31.0,71.42,28.57
+1351,Dell Laptop,Computers,Technology,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.39,1,3,7,3,CRITICAL_REORDER,7.7,300.0,35.0
+1352,Industrial consumer electronics,Consumer Electronics,Technology,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.38,1,4,17,5,HEALTHY,13.2,50.58,20.23
+1353,Porcelain crafts,Crafts,Apparel,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.43,3,10,14,18,HEALTHY,41.9,92.3,35.0
+1354,DVDs,DVDs,Discs Shop,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.43,2,6,22,5,CRITICAL_REORDER,11.6,32.88,13.15
+1355,Lawn mower,Garden,Outdoors,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.43,2,7,13,4,CRITICAL_REORDER,9.3,106.52,35.0
+1356,First aid kit,Health and Beauty,Health and Beauty,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.32,1,3,15,3,CRITICAL_REORDER,9.4,58.61,23.44
+1357,Men's gala suit,Men's Clothing,Apparel,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.18,1,3,13,2,CRITICAL_REORDER,11.1,42.17,16.87
+1358,Rock music,Music,Discs Shop,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.39,2,8,17,17,OVERSTOCKED,43.6,52.13,20.85
+1359,Adult dog supplies,Pet Supplies,Pet Shop,SUP-104,EuroElite Sports Corp,Germany,8,92.0,WH-LATAM-NORTH,LATAM North (Bogota),0.44,2,6,31,11,HEALTHY,25.0,16.88,6.75
+1360,Smart watch,Sporting Goods,Fitness,SUP-105,Andean Athletic Apparel,Colombia,10,88.0,WH-APAC-HUB,Pacific Asia (Singapore),0.32,2,6,14,9,HEALTHY,28.1,65.55,26.22
+1361,Toys,Toys,Fan Shop,SUP-101,Apex Global Athletics,USA,4,94.0,WH-US-EAST,US East (New York),0.47,1,3,87,6,HEALTHY,12.8,2.31,3.5
+1362,Fighting video games,Video Games,Discs Shop,SUP-102,Summit Outdoor Gear,Canada,6,91.0,WH-US-WEST,US West (California),0.74,2,7,59,13,HEALTHY,17.6,7.95,3.5
+1363,Summer dresses,Women's Clothing,Apparel,SUP-103,Pacific Rim Sourcing,China,14,85.0,WH-EU-CENTRAL,Europe Central (Frankfurt),0.58,3,12,23,10,CRITICAL_REORDER,17.2,43.16,17.27

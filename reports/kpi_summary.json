@@ -1,0 +1,112 @@
+{
+  "volume": {
+    "unique_orders": 65752,
+    "total_order_items": 180519,
+    "units_shipped": 384079,
+    "avg_items_per_order": 2.75,
+    "avg_units_per_order": 5.84
+  },
+  "delivery": {
+    "late_delivery_count": 98977,
+    "late_delivery_rate_overall_pct": 54.83,
+    "late_delivery_rate_shipped_pct": 57.29,
+    "ontime_count": 73788,
+    "ontime_rate_pct": 40.88,
+    "canceled_count": 7754,
+    "cancellation_rate_pct": 4.3,
+    "avg_real_shipping_days": 3.5,
+    "avg_scheduled_shipping_days": 2.93,
+    "avg_delay_gap_days": 0.57
+  },
+  "financial": {
+    "gross_sales": 36784735.01,
+    "total_discount_absorbed": 3730378.4,
+    "net_revenue": 33054402.38,
+    "net_operating_profit": 3966902.97,
+    "operating_profit_margin_pct": 12.0,
+    "average_discount_rate_pct": 10.14,
+    "loss_making_order_items": 33784,
+    "loss_making_order_rate_pct": 18.71
+  },
+  "shipping_cost_kpi": {
+    "status": "UNAVAILABLE_IN_CORE_DATASET",
+    "message": "Direct freight/shipping cost column is absent in the DataCo dataset. Fabricated figures are strictly avoided.",
+    "mode_freight_extension": "Available as estimated analytical model in Milestone 7 only."
+  },
+  "performance_by_shipping_mode": {
+    "First Class": {
+      "order_item_count": 27814,
+      "share_of_orders_pct": 15.41,
+      "late_delivery_rate_pct": 95.32,
+      "avg_real_days": 2.0,
+      "avg_scheduled_days": 1.0,
+      "delay_gap_days": 1.0
+    },
+    "Same Day": {
+      "order_item_count": 9737,
+      "share_of_orders_pct": 5.39,
+      "late_delivery_rate_pct": 45.74,
+      "avg_real_days": 0.48,
+      "avg_scheduled_days": 0.0,
+      "delay_gap_days": 0.48
+    },
+    "Second Class": {
+      "order_item_count": 35216,
+      "share_of_orders_pct": 19.51,
+      "late_delivery_rate_pct": 76.63,
+      "avg_real_days": 3.99,
+      "avg_scheduled_days": 2.0,
+      "delay_gap_days": 1.99
+    },
+    "Standard Class": {
+      "order_item_count": 107752,
+      "share_of_orders_pct": 59.69,
+      "late_delivery_rate_pct": 38.07,
+      "avg_real_days": 4.0,
+      "avg_scheduled_days": 4.0,
+      "delay_gap_days": -0.0
+    }
+  },
+  "performance_by_market": {
+    "Africa": {
+      "order_item_count": 11614,
+      "net_sales": 2061679.39,
+      "net_profit": 252071.18,
+      "profit_margin_pct": 12.23,
+      "late_delivery_rate_pct": 54.59,
+      "avg_real_days": 3.51
+    },
+    "Europe": {
+      "order_item_count": 50252,
+      "net_sales": 9769198.32,
+      "net_profit": 1169442.96,
+      "profit_margin_pct": 11.97,
+      "late_delivery_rate_pct": 55.21,
+      "avg_real_days": 3.49
+    },
+    "LATAM": {
+      "order_item_count": 51594,
+      "net_sales": 9235762.09,
+      "net_profit": 1123321.61,
+      "profit_margin_pct": 12.16,
+      "late_delivery_rate_pct": 54.36,
+      "avg_real_days": 3.51
+    },
+    "Pacific Asia": {
+      "order_item_count": 41260,
+      "net_sales": 7434262.65,
+      "net_profit": 857753.44,
+      "profit_margin_pct": 11.54,
+      "late_delivery_rate_pct": 55.05,
+      "avg_real_days": 3.5
+    },
+    "USCA": {
+      "order_item_count": 25799,
+      "net_sales": 4553499.92,
+      "net_profit": 564313.78,
+      "profit_margin_pct": 12.39,
+      "late_delivery_rate_pct": 54.8,
+      "avg_real_days": 3.48
+    }
+  }
+}
