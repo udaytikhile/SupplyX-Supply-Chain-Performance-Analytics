@@ -113,23 +113,14 @@ SupplyX builds a normalized star schema inside SQLite (`data/supplyx.db`):
 
 ---
 
-## 🖥️ User-Friendly Dashboards
+## 🖥️ Dashboards
 
-### 1. Standalone Interactive HTML Dashboard ([reports/dashboard.html](reports/dashboard.html))
-- Completely self-contained, responsive, and runnable in any web browser without needing Power BI Desktop.
-- **4 Tabbed Views**:
-  1. *Executive Overview*: 5 KPI cards with traffic-light status chips, market revenue bar chart, fulfillment outcome donut chart, and 37-month trendline.
-  2. *Delivery & SLA Performance*: Grouped bar charts contrasting promised vs actual days, delay distribution histogram, and mode scorecard.
-  3. *Demand & Revenue*: Department revenue/profit matrix, customer segment donut chart, and 123-day holdout forecast chart.
-  4. *Exceptions & Disclosures*: Discount depth margin collapse chart, exception summary matrix, and mandatory freight cost limitation disclosure.
-- **Dynamic Slicers**: Interactive dropdowns for Market and Shipping Mode dynamically recalibrate KPI cards in real time.
-
-### 2. Enterprise Power BI Specification ([reports/power_bi_spec.md](reports/power_bi_spec.md))
+### 1. Enterprise Power BI Specification ([reports/power_bi_spec.md](reports/power_bi_spec.md))
 - Complete Star Schema data model specification with active and inactive calendar relationships.
 - 16 commented production DAX measures.
 - Wireframe layout, tooltip mini-cards, and hierarchical drill-through (`Market -> Region -> Country -> Category -> Product`).
 
-### 3. Power BI Executive Dashboard Screenshots
+### 2. Power BI Executive Dashboard Screenshots
 
 #### Page 1: Operations Executive Overview
 *High-level operational KPIs, market revenue distribution, fulfillment status split, and monthly volume trendline.*
